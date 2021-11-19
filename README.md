@@ -24,4 +24,5 @@ List of tools to support the Kordis development process and to build services fo
 
 ## Internal Tools
 | **Name** | **Use case** | **URL** |
+| ------------- | ------------- | ---: |
 | Moqups | Collaborative online tool for diagrams  | http://moqups.com/ |
