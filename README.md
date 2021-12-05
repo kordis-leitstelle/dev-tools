@@ -22,7 +22,9 @@ List of tools to support the Kordis development process and to build services fo
 | ------------- | ------------- | ---: |
 | Studio3T  | Application containing tools around MongoDB (Query Builder, Shell, Aggregation Editor, SQL...)  | https://studio3t.com/ https://robomongo.org/download |
 
-## Internal Tools
+## Misc Tools
 | **Name** | **Use case** | **URL** |
 | ------------- | ------------- | ---: |
 | Moqups | Collaborative online tool for diagrams  | http://moqups.com/ |
+| tplant | Generates PlantUML Class Diagrams for a TypeScript project ` tplant --input src/**/*.ts --associations`  | https://github.com/bafolts/tplant |
+| PlantUML | PlantUML Web Server to render PlantUML files  | http://www.plantuml.com/plantum |
