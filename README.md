@@ -8,7 +8,7 @@ List of tools to support the Kordis development process and to build services fo
 | GraphQl Code Generator  | Generate Code from a GraphQL Schema. Useful especially for Apollo-Angular components and TypeScript types.  | https://github.com/dotansimha/graphql-code-generator |
 | Altair | Postman for GraphQL as Chrome Plugin or stand-alone application. Good for quick testing of queries, mutations and subscriptions.  | https://altair.sirmuel.design/ |
 | GraphQL Editor | GraphQL collaborative online tool to explore, edit and create schemas. | https://graphqleditor.com/ |
-
+| GQT | Executing and building queries in the terminal. | https://github.com/eerimoq/gqt |
 ## Frameworks, Libraries
 
 | **Name** | **Use case** | **URL** |
