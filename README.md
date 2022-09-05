@@ -5,7 +5,7 @@ List of tools to support the Kordis development process and to build services fo
 | **Name** | **Use case** | **URL** |
 | ------------- | ------------- | ---: |
 | Apollo GraphQL | We use Apollo Gateway to provide our supergraph. Each service providing schemas for it, should be compatible with Apollo federation. | https://www.apollographql.com/ https://www.apollographql.com/docs/federation/other-servers/  |
-| GraphQl Code Generator  | Generate Code from a GraphQL Schema. Useful especially for Apollo-Angular components and TypeScript types.  | https://github.com/dotansimha/graphql-code-generator |
+| GraphQl Code Generator  | Generate Code from a GraphQL Schema. Useful especially for Apollo-Angular components and TypeScript types.  | https://github.com/dotansimha/graphql-code-generator, https://www.the-guild.dev/graphql/codegen |
 | Altair | Postman for GraphQL as Chrome Plugin or stand-alone application. Good for quick testing of queries, mutations and subscriptions.  | https://altair.sirmuel.design/ |
 | GraphQL Editor | GraphQL collaborative online tool to explore, edit and create schemas. | https://graphqleditor.com/ |
 | GQT | Executing and building queries in the terminal. | https://github.com/eerimoq/gqt |
