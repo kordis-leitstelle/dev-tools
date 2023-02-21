@@ -9,6 +9,7 @@ List of tools to support the Kordis development process and to build services fo
 | Altair | Postman for GraphQL as Chrome Plugin or stand-alone application. Good for quick testing of queries, mutations and subscriptions.  | https://altair.sirmuel.design/ |
 | GraphQL Editor | GraphQL collaborative online tool to explore, edit and create schemas. | https://graphqleditor.com/ |
 | GQT | Executing and building queries in the terminal. | https://github.com/eerimoq/gqt |
+| Chrome Network Inspector | Instead of /graphql it shows the query name in the network tab | https://chrome.google.com/webstore/detail/graphql-network-inspector/ndlbedplllcgconngcnfmkadhokfaaln |
 ## Frameworks, Libraries
 
 | **Name** | **Use case** | **URL** |
